@@ -12,7 +12,9 @@ There are 3 main branches:
 1. **basic app** a Basic hard-coded route that fetches song lyrics.
 2. **added api routes** branch that shows 3 more example routes that fetch data from other sources, including using query parameters.
 3. **basic front-end** branch that has basic HTML links to the app routes. Copy and modify this in your project if you want to simplify navigation. 
-To run this application:
+
+### To run this application:
+
 
 ```
 flask --debug run
