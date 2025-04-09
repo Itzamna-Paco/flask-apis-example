@@ -15,7 +15,7 @@ There are 3 main branches:
 
 ### To run this application:
 
-
+Open in a Codespaces environment and run this command:
 ```
 flask --debug run
 ```
