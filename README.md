@@ -1,4 +1,4 @@
-# Basic API teaching app
+# Flask Basic API teaching app
 
 This is a bare-bones Flask app that serves 3rd party API data to teach how to use `requests` library to make HTTP requests from APIs. It is not an app with a UI or front-end, but an API playground to test and experiment with APIs. 
 It relies on returning API data from other sources covering: 
